@@ -30,7 +30,7 @@
 ## 🖥️ My Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,cpp,py,html,css,tailwind,js,nodejs,react,django,postgres,git,github,vscode,bash,linux,fastapi,nextjs,java,julia,r"/>
+    <img src="https://skillicons.dev/icons?i=aws,py,html,css,tailwind,js,nodejs,react,django,postgres,git,github,vscode,bash,nextjs,java,julia,r"/>
   </a>
 </p>
 <br>
