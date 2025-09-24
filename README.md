@@ -4,10 +4,8 @@
   **🚀 Senior Full Stack Engineer | AI Enthusiast | Cloud Architect**  
   *Transforming Ideas into Intelligent, Scalable Solutions*
   
-  **🔗 Secondary Repository:** [aquilesbailo123](https://github.com/aquilesbailo123)
+  **🔗 Secondary Github:** [aquilesbailo123](https://github.com/aquilesbailo123)
 </div>
-
-<img src="https://media.licdn.com/dms/image/D4E16AQHYuEFnY1GsXw/profile-displaybackgroundimage-shrink_350_1400/0/1686002020868?e=1719446400&v=beta&t=n_Lq3QIve6UP6vkSo-2Lks1vcM8Me5GkR7ELyEgSkJ8" alt="Carlos Feijoo - Senior Full Stack Engineer">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-feijoo/" target="blank">
@@ -18,6 +16,9 @@
   </a>
   <a href="https://github.com/ElChale"> 
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ElChale?style=social">
+  </a>
+  <a href="https://chale.feijoo.pe" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Carlos Feijoo"/>
   </a>
 </p>
 
@@ -55,9 +56,6 @@
     <td width="50%">
       <h3 align="center">🏦 NemoLatam - Crypto Exchange</h3>
       <div align="center">                                       
-        <a href="https://nemolatam.com/" target="_blank">
-          <img src="https://via.placeholder.com/400x200/1a1a2e/16213e?text=NemoLatam+Crypto+Exchange" width="100%" alt="NemoLatam">
-        </a>
         <p>
           <a href="https://nemolatam.com/" target="_blank">
             <img src="https://img.shields.io/badge/LIVE%20DEMO-00D9FF?style=for-the-badge&logo=react&logoColor=white">
@@ -69,9 +67,6 @@
     <td width="50%">
       <h3 align="center">🤖 TradeGuard - AI Trading Monitor</h3>
       <div align="center">
-        <a href="https://trade-dashboard-six.vercel.app/" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0f3460/16537e?text=AI+Trading+Dashboard" width="100%" alt="TradeGuard AI">
-        </a>
         <p>
           <a href="https://trade-dashboard-six.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/LIVE%20DEMO-00D9FF?style=for-the-badge&logo=python&logoColor=white">
@@ -85,9 +80,6 @@
     <td width="50%">
       <h3 align="center">☕ Bean Works - Coffee Platform</h3>
       <div align="center">                                       
-        <a href="https://bean-works.vercel.app/" target="_blank">
-          <img src="https://via.placeholder.com/400x200/8b4513/d2691e?text=Peruvian+Coffee+Platform" width="100%" alt="Bean Works">
-        </a>
         <p>
           <a href="https://bean-works.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/LIVE%20DEMO-00D9FF?style=for-the-badge&logo=nextdotjs&logoColor=white">
@@ -99,9 +91,6 @@
     <td width="50%">
       <h3 align="center">🛡️ SecretShare - Encrypted Messaging</h3>
       <div align="center">
-        <a href="https://secret-beryl-pi.vercel.app/login" target="_blank">
-          <img src="https://via.placeholder.com/400x200/2d1b69/7209b7?text=Encrypted+Messaging" width="100%" alt="SecretShare">
-        </a>
         <p>
           <a href="https://secret-beryl-pi.vercel.app/login" target="_blank">
             <img src="https://img.shields.io/badge/LIVE%20DEMO-00D9FF?style=for-the-badge&logo=react&logoColor=white">
