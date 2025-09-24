@@ -1,112 +1,151 @@
-# Carlos Feijoo | Senior Full Stack Engineer
-
 <div align="center">
-
-**Architecting Intelligent Solutions • Building Scalable Systems • Driving Innovation Through Code**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-feijoo/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlie.feijoo@gmail.com)
-[![Secondary GitHub](https://img.shields.io/badge/Secondary_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aquilesbailo123)
-
+  <h1 align="center">Hello, I'm <a href="https://github.com/ElChale">Carlos Feijoo</a> 👋</h1>
+  
+  **🚀 Senior Full Stack Engineer | AI Enthusiast | Cloud Architect**  
+  *Transforming Ideas into Intelligent, Scalable Solutions*
+  
+  **🔗 Secondary Repository:** [aquilesbailo123](https://github.com/aquilesbailo123)
 </div>
 
-## Professional Overview
+<img src="https://media.licdn.com/dms/image/D4E16AQHYuEFnY1GsXw/profile-displaybackgroundimage-shrink_350_1400/0/1686002020868?e=1719446400&v=beta&t=n_Lq3QIve6UP6vkSo-2Lks1vcM8Me5GkR7ELyEgSkJ8" alt="Carlos Feijoo - Senior Full Stack Engineer">
 
-Senior Full Stack Engineer specializing in **end-to-end system architecture**, **AI-powered solutions**, and **scalable web platforms**. Proven expertise in delivering enterprise-grade applications that serve global user bases, with deep proficiency in modern JavaScript ecosystems and Python-based backend systems.
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-feijoo/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Carlos Feijoo"/>
+  </a>
+  <a href="mailto:charlie.feijoo@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Carlos Feijoo"/>
+  </a>
+  <a href="https://github.com/ElChale"> 
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ElChale?style=social">
+  </a>
+</p>
 
-**Core Competencies:**
-- **Full Stack Architecture** — Complete system design from database optimization to responsive user interfaces
-- **AI & Machine Learning** — Generative AI, RAG pipelines, LLM integrations, and intelligent automation systems
-- **Cloud-Native Development** — AWS and GCP infrastructure with microservice architectures
-- **Performance Engineering** — Scalable solutions handling high-traffic applications and real-time systems
+## 💁 About me
+- 💻 **Senior Full Stack Engineer** specializing in scalable web applications and AI integration
+- 🤖 **AI/GenAI Expert** building intelligent systems with LangChain, RAG pipelines, and LLM integrations  
+- ☁️ **Cloud Architect** designing microservice architectures on AWS and Google Cloud Platform
+- 🌐 **Full Stack Developer** crafting end-to-end solutions from React frontends to Django backends
+- 📱 **Mobile Developer** creating cross-platform apps with React Native
+- 🔐 **Blockchain Enthusiast** developing cryptocurrency platforms and smart contract solutions
+- ✉️ Contact me: <a href="mailto:charlie.feijoo@gmail.com" target="blank">charlie.feijoo@gmail.com</a>
 
-## Technical Expertise
+<br>
 
-### **Programming Languages**
-```
-JavaScript    ████████████████████ 97%
-TypeScript    ████████████████████ 95%  
-Python        ████████████████████ 95%
-PHP           ██████████████████   90%
-C#            ██████████████████   90%
-Java          ██████████████████   90%
-```
+## 🖥️ My Skills
 
-### **Frontend Technologies**
-- **React Ecosystem:** React, Next.js, Redux, React Native
-- **Modern Frameworks:** Vue.js, Nuxt.js, Angular
-- **UI Libraries:** Material-UI, Tailwind CSS, Bootstrap
-- **State Management:** Redux, Context API, Vuex
-- **Build Tools:** Webpack, Vite, Parcel
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,django,aws,gcp,docker,postgres,mongodb,redis,git,github,vscode,html,css,tailwind"/>
+  </a>
+</p>
 
-### **Backend & Infrastructure**
-- **Node.js:** Express, Nest.js, Socket.io, WebSocket APIs
-- **Python:** Django, Flask, FastAPI, Celery
-- **Enterprise:** ASP.NET Core, Spring Framework, Laravel
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
-- **Cloud Platforms:** AWS (EC2, S3, Lambda, RDS), Google Cloud Platform, Azure
+### 🚀 Specialized Technologies
+- **AI/ML:** OpenAI, LangChain, LlamaIndex, Pinecone, Hugging Face, RAG Systems
+- **Blockchain:** Solidity, Web3.js, Smart Contracts, DeFi Protocols
+- **Mobile:** React Native, Flutter, Progressive Web Apps
+- **DevOps:** Kubernetes, Terraform, Jenkins, CI/CD Pipelines
 
-### **AI & Machine Learning**
-- **Large Language Models:** OpenAI GPT, Claude, Gemini, LLaMA
-- **AI Frameworks:** LangChain, LlamaIndex, Hugging Face
-- **Vector Databases:** Pinecone, Chroma, Weaviate
-- **Natural Language Processing:** Rasa, spaCy, NLTK
-- **Computer Vision:** TensorFlow, PyTorch, OpenCV
+<br>
 
-### **DevOps & Deployment**
-- **Containerization:** Docker, Kubernetes
-- **CI/CD:** Jenkins, GitHub Actions, CircleCI
-- **Infrastructure:** Terraform, AWS CloudFormation
-- **Monitoring:** New Relic, DataDog, CloudWatch
-- **Version Control:** Git, GitLab, Advanced branching strategies
+## 🚀 Featured Projects
 
-## Featured Projects Portfolio
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏦 NemoLatam - Crypto Exchange</h3>
+      <div align="center">                                       
+        <a href="https://nemolatam.com/" target="_blank">
+          <img src="https://via.placeholder.com/400x200/1a1a2e/16213e?text=NemoLatam+Crypto+Exchange" width="100%" alt="NemoLatam">
+        </a>
+        <p>
+          <a href="https://nemolatam.com/" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE%20DEMO-00D9FF?style=for-the-badge&logo=react&logoColor=white">
+          </a>
+        </p>
+        <p><b>Peru's first physical cryptocurrency exchange</b> with VISA debit card integration. Features Bitcoin, Ethereum, USDC trading with face-to-face customer service.</p>
+      </div>                                                             
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 TradeGuard - AI Trading Monitor</h3>
+      <div align="center">
+        <a href="https://trade-dashboard-six.vercel.app/" target="_blank">
+          <img src="https://via.placeholder.com/400x200/0f3460/16537e?text=AI+Trading+Dashboard" width="100%" alt="TradeGuard AI">
+        </a>
+        <p>
+          <a href="https://trade-dashboard-six.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE%20DEMO-00D9FF?style=for-the-badge&logo=python&logoColor=white">
+          </a>
+        </p>
+        <p><b>AI-powered trading anomaly detection</b> system using machine learning algorithms for real-time risk assessment and automated threat response.</p>
+      </div>                                                                                          
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">☕ Bean Works - Coffee Platform</h3>
+      <div align="center">                                       
+        <a href="https://bean-works.vercel.app/" target="_blank">
+          <img src="https://via.placeholder.com/400x200/8b4513/d2691e?text=Peruvian+Coffee+Platform" width="100%" alt="Bean Works">
+        </a>
+        <p>
+          <a href="https://bean-works.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE%20DEMO-00D9FF?style=for-the-badge&logo=nextdotjs&logoColor=white">
+          </a>
+        </p>
+        <p><b>Premium Peruvian specialty coffee platform</b> with origin tracking, subscription services, and educational content about Peru's coffee regions.</p>
+      </div>                                                             
+    </td>
+    <td width="50%">
+      <h3 align="center">🛡️ SecretShare - Encrypted Messaging</h3>
+      <div align="center">
+        <a href="https://secret-beryl-pi.vercel.app/login" target="_blank">
+          <img src="https://via.placeholder.com/400x200/2d1b69/7209b7?text=Encrypted+Messaging" width="100%" alt="SecretShare">
+        </a>
+        <p>
+          <a href="https://secret-beryl-pi.vercel.app/login" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE%20DEMO-00D9FF?style=for-the-badge&logo=react&logoColor=white">
+          </a>
+        </p>
+        <p><b>End-to-end encrypted messaging platform</b> with client-side encryption, disappearing messages, and zero-knowledge architecture.</p>
+      </div>                                                                                          
+    </td>
+  </tr>
+</table>
 
-### **Enterprise Applications**
-- **NemoLatam** — Peru's first physical cryptocurrency exchange platform with VISA debit card integration
-- **Bean Works** — Premium Peruvian specialty coffee e-commerce platform with origin tracking
-- **Plastitex** — B2B technical fabrics platform with customization tools and international shipping
+<br>
 
-### **AI-Powered Solutions**
-- **TradeGuard** — ML-powered trading anomaly detection system with real-time analytics
-- **SecureTrans** — Enterprise transaction security platform with automated threat response
-- **KuskaPay** — Blockchain crowdfunding platform with smart contract automation
+## 🎯 Current Focus
+- 🤖 **Generative AI Applications** - Building next-gen AI-powered user experiences
+- 🏗️ **Microservices Architecture** - Scalable distributed systems with container orchestration  
+- ⚡ **Real-time Systems** - WebSocket implementations for live data synchronization
+- 📱 **Mobile-First Development** - Cross-platform applications with native performance
+- ☁️ **Cloud Optimization** - Cost-effective, high-performance cloud architectures
 
-### **Full-Stack Platforms**
-- **SecureLife** — Comprehensive insurance platform with regulatory compliance
-- **SecretShare** — End-to-end encrypted messaging with advanced privacy features
-- **Productos World** — Affiliate marketing platform with automated deal discovery
+<br>
 
-## Architecture Philosophy
+## ⚙️ GitHub Analytics
 
-**Scalability First** — Design systems that grow seamlessly from startup to enterprise scale  
-**Security by Design** — Implement robust authentication, authorization, and data protection  
-**Performance Optimization** — Deliver sub-second response times through efficient algorithms and caching  
-**Code Quality** — Maintain high standards with comprehensive testing and documentation  
-**AI Integration** — Enhance user experiences through intelligent automation and personalization  
+<p align="center">
+<a href="https://github.com/ElChale">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElChale&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElChale&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-## Current Focus Areas
+<br>
 
-- **Generative AI Applications** — Building next-generation AI-powered user experiences
-- **Microservices Architecture** — Scalable, maintainable distributed systems
-- **Real-time Systems** — WebSocket implementations for live data synchronization
-- **Mobile-First Development** — Cross-platform applications with native performance
-- **Cloud Optimization** — Cost-effective, high-performance cloud architectures
-
-## Collaboration & Methodology
-
-**Agile Development** with emphasis on rapid iteration and continuous deployment  
-**Technical Leadership** through mentoring, code reviews, and architectural decision-making  
-**Cross-functional Collaboration** with design, product, and business teams  
-**Open Source Contribution** to community projects and technology advancement  
+## 🌟 Fun Facts
+- 🚀 Built Peru's first physical crypto exchange platform
+- 🤖 Specialized in creating AI agents and intelligent automation systems
+- 🌍 Developed applications serving global user bases across multiple continents
+- ⚡ Passionate about optimizing performance - love making things blazingly fast!
+- 📚 Continuous learner - always exploring the latest in AI and cloud technologies
 
 ---
 
 <div align="center">
-
-**Building the Future of Web Development**  
-*Transforming Ideas into Intelligent, Scalable Solutions*
-
-**Secondary Repository:** [aquilesbailo123](https://github.com/aquilesbailo123)
-
+  <img src="https://komarev.com/ghpvc/?username=ElChale&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  **💬 Let's connect and build something amazing together!**
 </div>
