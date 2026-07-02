@@ -15,13 +15,13 @@
   <a href="https://chale.feijoo.pe" target="blank">
     <img align="center" src="https://img.shields.io/badge/Personal%20Site-1F2937?style=for-the-badge&logo=react&logoColor=white" alt="Personal Site - chale.feijoo.pe"/>
   </a>
-  <a href="https://qolca.org" target="blank">
+  <a href="https://www.qolca.org" target="blank">
     <img align="center" src="https://img.shields.io/badge/Qolca-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Qolca Solutions"/>
   </a>
 </p>
 
 ## 💁 About me
-- 🏗️ **Founder & Lead Engineer @ [Qolca Solutions](https://qolca.org)** — building RAG-based AI agents, custom ERPs, and full-stack platforms for enterprise clients across Latin America
+- 🏗️ **Founder & Lead Engineer @ [Qolca Solutions](https://www.qolca.org)** — building RAG-based AI agents, custom ERPs, and full-stack platforms for enterprise clients across Latin America
 - 🤖 **AI Systems Engineer** specializing in agent architecture, RAG pipelines, context engineering, and LLM orchestration (OpenAI, Claude, n8n)
 - 🏦 **Ex-Senior Lead Software Architect @ NEMO LATAM** — architected the core trading platform of [Peru's first physical crypto exchange](https://www.revistaeconomia.com/primera-crypto-exchange-en-peru-con-oficinas-fisicas-abiertas-al-publico/), shipping a first-of-its-kind VISA card integration at 99.9% uptime
 - ☁️ **Cloud-native engineer** building real-time systems on AWS / GCP with Docker, Kubernetes, and Terraform
@@ -61,7 +61,7 @@
       <h3 align="center">🏗️ Qolca Solutions — AI & Automation Consultancy</h3>
       <div align="center">                                       
         <p>
-          <a href="https://qolca.org" target="_blank">
+          <a href="https://www.qolca.org" target="_blank">
             <img src="https://img.shields.io/badge/qolca.org-FF5722?style=for-the-badge&logo=web&logoColor=white">
           </a>
         </p>
@@ -110,7 +110,7 @@
 
 ## 🛠️ Qolca Solutions — Selected Portfolio
 
-A sample of production platforms shipped through [Qolca Solutions](https://qolca.org). Each one was scoped, architected, built, and deployed end-to-end.
+A sample of production platforms shipped through [Qolca Solutions](https://www.qolca.org). Each one was scoped, architected, built, and deployed end-to-end.
 
 <table>
   <tr>
@@ -166,7 +166,7 @@ A sample of production platforms shipped through [Qolca Solutions](https://qolca
   </tr>
 </table>
 
-<sub>Other shipped Qolca projects: Plastitex · CIBS · Reportería Minera · SecureLife · Daniel Velez Seguros · Ratio · Arcommit · ONPE Digital · Bean Works · SecretShare. Full portfolio at <a href="https://qolca.org">qolca.org</a>.</sub>
+<sub>Other shipped Qolca projects: Plastitex · CIBS · Reportería Minera · SecureLife · Daniel Velez Seguros · Ratio · Arcommit · ONPE Digital · Bean Works · SecretShare. Full portfolio at <a href="https://www.qolca.org">qolca.org</a>.</sub>
 
 <br>
 
