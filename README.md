@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hello, I'm <a href="https://github.com/ElChale">Carlos Feijoo</a> 👋</h1>
   
-  **🚀 Senior Full Stack Engineer | AI Systems & Agent Architecture | Founder @ Qolca Solutions**  
+  **🚀 Senior Full Stack Engineer | AI Systems & Agent Architecture | Lead Engineer @ Qolca Solutions**  
   *Designing and shipping RAG-based AI agents and production-grade platforms for enterprise clients*
 </div>
 
@@ -21,7 +21,7 @@
 </p>
 
 ## 💁 About me
-- 🏗️ **Founder & Lead Engineer @ [Qolca Solutions](https://www.qolca.org)** — building RAG-based AI agents, custom ERPs, and full-stack platforms for enterprise clients across Latin America
+- 🏗️ **Lead Engineer @ [Qolca Solutions](https://www.qolca.org)** — building RAG-based AI agents, custom ERPs, and full-stack platforms for enterprise clients across Latin America
 - 🤖 **AI Systems Engineer** specializing in agent architecture, RAG pipelines, context engineering, and LLM orchestration (OpenAI, Claude, n8n)
 - 🏦 **Ex-Senior Lead Software Architect @ NEMO LATAM** — architected the core trading platform of [Peru's first physical crypto exchange](https://www.revistaeconomia.com/primera-crypto-exchange-en-peru-con-oficinas-fisicas-abiertas-al-publico/), shipping a first-of-its-kind VISA card integration at 99.9% uptime
 - ☁️ **Cloud-native engineer** building real-time systems on AWS / GCP with Docker, Kubernetes, and Terraform
@@ -65,7 +65,7 @@
             <img src="https://img.shields.io/badge/qolca.org-FF5722?style=for-the-badge&logo=web&logoColor=white">
           </a>
         </p>
-        <p><b>Founder & Lead Engineer.</b> Designing and shipping <b>RAG-based customer support agents</b>, <b>custom ERP systems</b>, and full-stack platforms (React/TS + Django/FastAPI) for enterprise clients in retail, services, and B2B. Owns the full delivery lifecycle: scoping → architecture → cloud deploy → handoff.</p>
+        <p><b>Lead Engineer.</b> Designing and shipping <b>RAG-based customer support agents</b>, <b>custom ERP systems</b>, and full-stack platforms (React/TS + Django/FastAPI) for enterprise clients in retail, services, and B2B. Owns the full delivery lifecycle: scoping → architecture → cloud deploy → handoff.</p>
       </div>                                                             
     </td>
     <td width="50%">
