@@ -166,7 +166,7 @@ A sample of production platforms shipped through [Qolca Solutions](https://www.q
   </tr>
 </table>
 
-<sub>Other shipped Qolca projects: Notaría Digital · Contratos Digitales · Síguelo SUNARP · JobKiwi · Plastitex · CIBS · Reportería Minera · SecureLife · Daniel Velez Seguros · Ratio · Arcommit · ONPE Digital · Bean Works · SecretShare. Full portfolio at <a href="https://www.qolca.org">qolca.org</a>.</sub>
+<sub>Other shipped Qolca projects: Notaría Digital · Contratos Digitales · Síguelo SUNARP · JobKiwi · Plastitex · Reportería Minera · SecureLife · Daniel Velez Seguros · Ratio · Arcommit · ONPE Digital · Bean Works · SecretShare. Full portfolio at <a href="https://www.qolca.org">qolca.org</a>.</sub>
 
 <br>
 
