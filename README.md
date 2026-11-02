@@ -41,13 +41,13 @@
 
 ### 🚀 Specialized Technologies
 
-- **AI Systems & Agents:** Code-first agents · RAG pipelines · OpenAI · Anthropic Claude · Google Gemini · Context engineering · n8n · LangChain · Vector DBs (Pinecone) · Embedding pipelines · Knowledge-base ingestion
+- **AI Systems & Agents:** Code-first agents · RAG pipelines · OpenAI · Anthropic Claude · Google Gemini · Context engineering · MCP servers · n8n · LangChain · Vector DBs (Pinecone) · Embedding pipelines · Knowledge-base ingestion
 - **Frontend:** React 19 · Next.js (App Router) · TypeScript · Vite · React Native · Tailwind · CSS Modules · TanStack Query · Zustand · React Router v7 · Fabric.js *(canvas editors — Imprime Digital)*
 - **Backend:** Django + DRF · FastAPI · Flask · Node / Express · Celery · WebSockets · REST + JWT auth (SimpleJWT, dj-rest-auth, allauth) · Prisma + PostgreSQL
 - **Real-time & Financial Systems:** Order books · Live market data feeds · P2P trading · Bulk-payment coordination · Multi-party transaction audit trails *(NEMO LATAM)*
 - **Cloud & DevOps:** AWS (EC2, RDS, ALB, CloudWatch) · GCP / GCS · Docker · Kubernetes · Terraform · Nginx · GitHub Actions CI/CD · Vercel
 - **Data & Messaging:** PostgreSQL · MongoDB · Redis · Celery · RabbitMQ · Kafka
-- **Payments & Integrations:** Stripe *(FanVault)* · Culqi *(Propaga)* · IZIPAY *(Imprime Digital)* · VISA card processors *(NEMO)* · Yape / Plin *(Domber)*
+- **Payments & Integrations:** Stripe *(FanVault)* · Culqi *(Propaga)* · MercadoPago *(ComeHome, Radar Estatal)* · SUNAT / SAT e-invoicing *(Emito)* · IZIPAY *(Imprime Digital)* · VISA card processors *(NEMO)* · Yape / Plin *(Domber)*
 - **Desktop & Cross-platform:** Electron + React + FastAPI *(AgentForge)* · React Native · Progressive Web Apps
 - **Observability & Security:** Grafana · Prometheus · Superset · OAuth / JWT · OWASP fundamentals · TLS · Rate limiting · Input sanitization
 
@@ -115,26 +115,43 @@ A sample of production platforms shipped through [Qolca Solutions](https://www.q
 <table>
   <tr>
     <td width="33%" align="center">
+      <h4>📡 Radar Estatal — SEACE MCP</h4>
+      <a href="https://radarestatal.pe" target="_blank"><img src="https://img.shields.io/badge/LIVE-radarestatal.pe-22C55E?style=flat-square"></a><br/>
+      <sub>AI procurement intelligence tracking <b>200,000+ SEACE tenders</b>, plus an open-source <b>remote MCP server</b> that lets AI agents query Peru's public procurement: tenders, winners, real bidders, supplier sanctions and RUC data. CI-tested, MIT, <a href="https://github.com/elchale/seace-mcp">on GitHub</a>.</sub>
+    </td>
+    <td width="33%" align="center">
       <h4>📣 Propaga AI</h4>
       <a href="https://propaga.pe" target="_blank"><img src="https://img.shields.io/badge/LIVE-propaga.pe-22C55E?style=flat-square"></a><br/>
-      <sub>Multi-channel <b>lead capture & AI scoring</b> across web forms, email, and social — automated qualification, routing, and ROI tracking.</sub>
+      <sub>Multi-channel <b>lead capture & AI scoring</b> across web forms, email, and social — automated qualification, routing, and ROI tracking. 600+ commits in production.</sub>
     </td>
     <td width="33%" align="center">
-      <h4>🪶 Raven CRM</h4>
-      <a href="https://raven-frontend-new.vercel.app/signup" target="_blank"><img src="https://img.shields.io/badge/LIVE-Raven-22C55E?style=flat-square"></a><br/>
-      <sub>Custom <b>CRM platform</b> built for teams that outgrew generic tools — pipelines, KPI dashboards, SLA tracking with auto-escalation.</sub>
-    </td>
-    <td width="33%" align="center">
-      <h4>📜 Notaría Digital</h4>
-      <a href="https://notaria.testperu.com" target="_blank"><img src="https://img.shields.io/badge/LIVE-Demo-22C55E?style=flat-square"></a><br/>
-      <sub>Vertical CRM for <b>notaries</b>: public deeds, powers of attorney, and legal proceedings tracked end-to-end.</sub>
+      <h4>🧾 Emito</h4>
+      <a href="https://bilitnow.com" target="_blank"><img src="https://img.shields.io/badge/LIVE-bilitnow.com-22C55E?style=flat-square"></a><br/>
+      <sub><b>E-invoicing over WhatsApp</b>: businesses text a chat bot and get invoices validated by <b>SUNAT (Peru) and SAT (Mexico)</b>, covering two tax regimes, digital certificates, and subscriptions.</sub>
     </td>
   </tr>
   <tr>
     <td width="33%" align="center">
-      <h4>✍️ Contratos Digitales</h4>
-      <a href="https://contratos.testperu.com" target="_blank"><img src="https://img.shields.io/badge/LIVE-Demo-22C55E?style=flat-square"></a><br/>
-      <sub><b>Digital contract management</b> with e-signatures, version control, and centralized document tracking.</sub>
+      <h4>🎓 Diplomy</h4>
+      <a href="https://diplomy.org" target="_blank"><img src="https://img.shields.io/badge/LIVE-diplomy.org-22C55E?style=flat-square"></a><br/>
+      <sub><b>Verifiable digital credentials</b> on the Open Badges standard: cryptographically signed certificates, bulk issuance from Excel, public verification pages, and revocation.</sub>
+    </td>
+    <td width="33%" align="center">
+      <h4>🚜 Maqui360</h4>
+      <a href="https://www.maqui360.com" target="_blank"><img src="https://img.shields.io/badge/LIVE-maqui360.com-22C55E?style=flat-square"></a><br/>
+      <sub><b>Machine-hour control & equipment rental</b>: operators snap a photo of the hour-meter, <b>AI reads it</b>, and effective hours become the rental invoice automatically.</sub>
+    </td>
+    <td width="33%" align="center">
+      <h4>🧠 futurX</h4>
+      <a href="https://futurx.pe" target="_blank"><img src="https://img.shields.io/badge/LIVE-futurx.pe-22C55E?style=flat-square"></a><br/>
+      <sub><b>Peru's university AI community</b>: campus clubs where students of any major build with generative AI, city impact projects, the <i>futurA</i> magazine, and an annual hackathon with open registration.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <h4>🏷️ ComeHome Tag</h4>
+      <a href="https://comehometag.com" target="_blank"><img src="https://img.shields.io/badge/LIVE-comehometag.com-22C55E?style=flat-square"></a><br/>
+      <sub><b>Smart QR bracelets</b> for kids, elders, and pets. Each code opens a public rescue page with the owner's contact. Next.js 15, Prisma, Neon, MercadoPago.</sub>
     </td>
     <td width="33%" align="center">
       <h4>🖨️ Imprime Digital</h4>
@@ -147,26 +164,9 @@ A sample of production platforms shipped through [Qolca Solutions](https://www.q
       <sub><b>Civic-tech platform</b> for the 2026 Peru elections: voter services, candidate transparency, real-time results.</sub>
     </td>
   </tr>
-  <tr>
-    <td width="33%" align="center">
-      <h4>📍 Síguelo SUNARP</h4>
-      <a href="https://siguelo.testperu.com" target="_blank"><img src="https://img.shields.io/badge/LIVE-Demo-22C55E?style=flat-square"></a><br/>
-      <sub><b>Real-time SUNARP tracking</b> by title number — government registry status with no portal-hopping.</sub>
-    </td>
-    <td width="33%" align="center">
-      <h4>💼 JobKiwi</h4>
-      <a href="https://jobkiwi.xyz" target="_blank"><img src="https://img.shields.io/badge/LIVE-jobkiwi.xyz-22C55E?style=flat-square"></a><br/>
-      <sub><b>Job board</b> with applicant tracking and recruiter tools.</sub>
-    </td>
-    <td width="33%" align="center">
-      <h4>💳 KuskaPay</h4>
-      <a href="https://kuskapay.com" target="_blank"><img src="https://img.shields.io/badge/LIVE-kuskapay.com-22C55E?style=flat-square"></a><br/>
-      <sub><b>Payment platform</b> for Latin American merchants — checkout, settlement, and reconciliation.</sub>
-    </td>
-  </tr>
 </table>
 
-<sub>Other shipped Qolca projects: Plastitex · CIBS · Reportería Minera · SecureLife · Daniel Velez Seguros · Ratio · Arcommit · ONPE Digital · Bean Works · SecretShare. Full portfolio at <a href="https://www.qolca.org">qolca.org</a>.</sub>
+<sub>Other shipped Qolca projects: Notaría Digital · Contratos Digitales · Síguelo SUNARP · JobKiwi · Plastitex · CIBS · Reportería Minera · SecureLife · Daniel Velez Seguros · Ratio · Arcommit · ONPE Digital · Bean Works · SecretShare. Full portfolio at <a href="https://www.qolca.org">qolca.org</a>.</sub>
 
 <br>
 
